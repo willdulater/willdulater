@@ -1,16 +1,25 @@
-## Hi there 👋
+# William Du
 
-<!--
-**willdulater/willdulater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer. I build tools that help students navigate higher education.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+
+**[CollegeBase](https://collegebase.org)** - College search and discovery platform. Helping students find and explore undergraduate programs.
+
+**[GradBase](https://gradbase.org)** = Grad school search and discovery platform. Helping students research and compare graduate programs.
+
+---
+
+### Stack
+
+TypeScript · React / Next.js · Django · PostgreSQL · AWS · Cloudflare
+
+---
+
+### Contact
+
+Open to software engineer roles — feel free to reach out.
+
+📧 [your@email.com](mailto:your@email.com) · 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
