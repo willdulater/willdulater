@@ -12,14 +12,8 @@ Software engineer. I build tools that help students navigate higher education.
 
 ---
 
-### Stack
-
-TypeScript · React / Next.js · Django · PostgreSQL · AWS · Cloudflare
-
----
-
 ### Contact
 
-Open to software engineer roles — feel free to reach out.
+Open to software engineer roles - feel free to reach out.
 
-📧 [your@email.com](mailto:your@email.com) · 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+[willdulater@gmail.com](mailto:willdulater@gmail.com) · 💼 [LinkedIn](https://linkedin.com/in/williamdu0)
