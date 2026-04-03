@@ -16,4 +16,4 @@ Software engineer. I build tools that help students navigate higher education.
 
 Open to software engineer roles - feel free to reach out.
 
-[willdulater@gmail.com](mailto:willdulater@gmail.com) · 💼 [LinkedIn](https://linkedin.com/in/williamdu0)
+[willdulater@gmail.com](mailto:willdulater@gmail.com) · [LinkedIn](https://linkedin.com/in/williamdu0)
