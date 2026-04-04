@@ -6,7 +6,7 @@ Software engineer. I build tools that help students navigate higher education.
 
 ### Projects
 
-**[Collegebase](https://collegebase.org)** - College search and discovery platform. Helping students find and explore undergraduate programs.
+**[Collegebase](https://collegebase.org)** - College search and discovery platform. 100k+ users
 
 **[Gradbase](https://gradbase.org)** = Grad school search and discovery platform. Helping students research and compare graduate programs.
 
