@@ -1,6 +1,6 @@
 # William Du
 
-Software engineer. I build tools that help students navigate higher education.
+Yale math/cs. I build tools that help students navigate higher education.
 
 ---
 
